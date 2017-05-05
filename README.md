@@ -21,7 +21,8 @@ Webpack 作为目前前端开发必备的框架，Webpack 发布了 2.0 版本�
 * [008 - WDS 端口号等配置相关](http://v.youku.com/v_show/id_XMjcwMTc2MDQ1Ng==.html)
 * [009 - 配置 ESLint 实现代码规范自动测试 (上)](http://v.youku.com/v_show/id_XMjcyMjU3MjI3Mg==.html)
 * [010 - 配置 ESLint 实现代码规范自动测试 (下)](http://v.youku.com/v_show/id_XMjcyMjYyODQ2NA==.html)
-* 011 视频即将更新
+* [011 - Webpack2 中加载 CSS 的相关配置与实战](http://v.youku.com/v_show/id_XMjc0NTI5Njk4MA==.html)
+* 012 视频即将更新
 
 # 2. 视频课程地址
 
