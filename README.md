@@ -25,7 +25,8 @@ Webpack 作为目前前端开发必备的框架，Webpack 发布了 2.0 版本�
 * [012 - 理解 Webpack 中的 CSS 作用域与 CSS Modules](http://v.youku.com/v_show/id_XMjc0Nzg2NzcxNg==.html)
 * [013 - 自动分离 CSS 到独立文件](http://v.youku.com/v_show/id_XMjc2ODU1MjY0NA==.html)
 * [014 - 深入理解 Webpack 2 中的 loader](http://v.youku.com/v_show/id_XMjc4NzY1NDIzMg==.html)
-* 015 视频即将更新，请关注我们的小密圈第一时间获取视频查看密码
+* [015 - Webpack 2 中的文件压缩](http://v.youku.com/v_show/id_XMjgwNTg3NzQ2NA==.html)
+* 016 视频即将更新，请关注我们的小密圈第一时间获取视频查看密码
 
 # 2. 视频课程地址
 
