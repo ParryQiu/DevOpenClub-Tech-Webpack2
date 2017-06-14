@@ -5,7 +5,7 @@ Webpack 作为目前前端开发必备的框架，Webpack 发布了 2.0 版本�
 这个基本就是目前国内最好的 Webpack 2.0 最好的学习视频了，希望可以对新手或者复习相关知识的朋友有用。
 源码中包含了课程中的思维导图源文件，使用的思维导图软件为 Mac 下的 iThoughtsX 。
 
-课程地址: [http://tech.parryqiu.com/lesson/webpack2.html](http://tech.parryqiu.com/lesson/webpack2.html)
+课程地址: [https://devopen.club/course/webpack2.html](https://devopen.club/course/webpack2.html)
 
 > Webpack 是当下最热门的前端资源模块化管理和打包工具。它可以将许多松散的模块按照依赖和规则打包成符合生产环境部署的前端资源。还可以将按需加载的模块进行代码分隔，等到实际需要的时候再异步加载。通过loader的转换，任何形式的资源都可以视作模块，比如 CommonJs 模块、 AMD 模块、 ES6 模块、CSS、图片、 JSON、Coffeescript、 LESS 等。
 
@@ -34,4 +34,4 @@ Webpack 作为目前前端开发必备的框架，Webpack 发布了 2.0 版本�
 
 优酷超清视频播单：[http://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1](http://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1)
 
-课程更新及高质量讨论小密圈地址：[http://tech.parryqiu.com/lesson/webpack2.html](http://tech.parryqiu.com/lesson/webpack2.html)
+课程更新及高质量讨论小密圈地址：[https://devopen.club/course/webpack2.html](https://devopen.club/course/webpack2.html)
