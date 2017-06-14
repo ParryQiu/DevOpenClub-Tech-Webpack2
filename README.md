@@ -32,6 +32,18 @@ Webpack 作为目前前端开发必备的框架，Webpack 发布了 2.0 版本�
 
 # 2. 视频课程地址
 
-优酷超清视频播单：[http://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1](http://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1)
+* Webpack 2 前端开发教程 bilibili 完整播单
+
+[https://www.bilibili.com/video/av11128844/](https://www.bilibili.com/video/av11128844/)
+
+
+* Webpack 2 前端开发教程 Youtube 完整播单
+
+[https://www.youtube.com/playlist?list=PLXbU-2B80FvDu2YTKN42WvAVKWHs6XHRy](https://www.youtube.com/playlist?list=PLXbU-2B80FvDu2YTKN42WvAVKWHs6XHRy)
+
+* Webpack 2 前端开发教程优酷完整播单 (因优酷审核太垃圾，不再更新到优酷。) 
+
+[http://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1](http://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1)
+
 
 课程更新及高质量讨论小密圈地址：[https://devopen.club/course/webpack2.html](https://devopen.club/course/webpack2.html)
