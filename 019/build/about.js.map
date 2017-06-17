@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./app/about.js"],"names":[],"mappings":"gCAAA","file":"about.js","sourcesContent":["console.log('this is about js output...');\n\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./app/about.js\n// module id = 22\n// module chunks = 1"],"sourceRoot":""}

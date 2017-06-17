@@ -3,7 +3,7 @@
   "warnings": [],
   "version": "2.3.2",
   "hash": "31a27d461890dc653de6",
-  "time": 4102,
+  "time": 5142,
   "publicPath": "",
   "assetsByChunkName": {
     "app": [
@@ -158,8 +158,8 @@
           "issuerId": 22,
           "issuerName": "./app/index.js",
           "profile": {
-            "factory": 9,
-            "building": 355
+            "factory": 4,
+            "building": 382
           },
           "failed": false,
           "errors": 0,
@@ -203,7 +203,7 @@
           "issuerId": 22,
           "issuerName": "./app/index.js",
           "profile": {
-            "factory": 385,
+            "factory": 419,
             "building": 16
           },
           "failed": false,
@@ -246,9 +246,9 @@
           "issuerId": 22,
           "issuerName": "./app/index.js",
           "profile": {
-            "factory": 401,
-            "building": 2,
-            "dependencies": 129
+            "factory": 436,
+            "building": 1,
+            "dependencies": 137
           },
           "failed": false,
           "errors": 0,
@@ -290,9 +290,9 @@
           "issuerId": null,
           "issuerName": null,
           "profile": {
-            "factory": 55,
-            "building": 350,
-            "dependencies": 8
+            "factory": 57,
+            "building": 403,
+            "dependencies": 3
           },
           "failed": false,
           "errors": 0,
@@ -353,8 +353,8 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 232,
-            "building": 106
+            "factory": 231,
+            "building": 142
           },
           "failed": false,
           "errors": 0,
@@ -565,8 +565,8 @@
           "issuerId": 14,
           "issuerName": "./~/react/lib/ReactBaseClasses.js",
           "profile": {
-            "factory": 233,
-            "building": 38,
+            "factory": 259,
+            "building": 118,
             "dependencies": 0
           },
           "failed": false,
@@ -675,13 +675,13 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElement.js",
-          "issuerId": 3,
-          "issuerName": "./~/react/lib/ReactElement.js",
+          "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElementValidator.js",
+          "issuerId": 16,
+          "issuerName": "./~/react/lib/ReactElementValidator.js",
           "profile": {
-            "factory": 203,
-            "building": 38,
-            "dependencies": 2
+            "factory": 224,
+            "building": 117,
+            "dependencies": 4
           },
           "failed": false,
           "errors": 0,
@@ -793,9 +793,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 30,
-            "building": 171,
-            "dependencies": 108
+            "factory": 12,
+            "building": 230,
+            "dependencies": 208
           },
           "failed": false,
           "errors": 0,
@@ -889,8 +889,8 @@
           "issuerId": 14,
           "issuerName": "./~/react/lib/ReactBaseClasses.js",
           "profile": {
-            "factory": 156,
-            "building": 32
+            "factory": 155,
+            "building": 45
           },
           "failed": false,
           "errors": 0,
@@ -975,8 +975,8 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 308,
-            "building": 33
+            "factory": 303,
+            "building": 74
           },
           "failed": false,
           "errors": 0,
@@ -1039,12 +1039,12 @@
             1
           ],
           "assets": [],
-          "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElement.js",
-          "issuerId": 3,
-          "issuerName": "./~/react/lib/ReactElement.js",
+          "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElementValidator.js",
+          "issuerId": 16,
+          "issuerName": "./~/react/lib/ReactElementValidator.js",
           "profile": {
-            "factory": 125,
-            "building": 52
+            "factory": 119,
+            "building": 50
           },
           "failed": false,
           "errors": 0,
@@ -1111,9 +1111,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 32,
-            "building": 182,
-            "dependencies": 18
+            "factory": 15,
+            "building": 235,
+            "dependencies": 0
           },
           "failed": false,
           "errors": 0,
@@ -1180,8 +1180,8 @@
           "issuerId": 40,
           "issuerName": "multi react",
           "profile": {
-            "factory": 227,
-            "building": 182
+            "factory": 265,
+            "building": 31
           },
           "failed": false,
           "errors": 0,
@@ -1230,8 +1230,8 @@
           "issuerId": 30,
           "issuerName": "./~/react/lib/ReactChildren.js",
           "profile": {
-            "factory": 226,
-            "building": 35
+            "factory": 237,
+            "building": 112
           },
           "failed": false,
           "errors": 0,
@@ -1289,9 +1289,9 @@
           "issuerId": 16,
           "issuerName": "./~/react/lib/ReactElementValidator.js",
           "profile": {
-            "factory": 100,
-            "building": 47,
-            "dependencies": 29
+            "factory": 120,
+            "building": 87,
+            "dependencies": 17
           },
           "failed": false,
           "errors": 0,
@@ -1349,9 +1349,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 32,
-            "building": 187,
-            "dependencies": 13
+            "factory": 14,
+            "building": 239,
+            "dependencies": 1
           },
           "failed": false,
           "errors": 0,
@@ -1409,9 +1409,9 @@
           "issuerId": 14,
           "issuerName": "./~/react/lib/ReactBaseClasses.js",
           "profile": {
-            "factory": 231,
-            "building": 36,
-            "dependencies": 0
+            "factory": 256,
+            "building": 37,
+            "dependencies": 9
           },
           "failed": false,
           "errors": 0,
@@ -1460,8 +1460,8 @@
           "issuerId": 26,
           "issuerName": "./~/prop-types/factoryWithTypeCheckers.js",
           "profile": {
-            "factory": 5,
-            "building": 1
+            "factory": 14,
+            "building": 14
           },
           "failed": false,
           "errors": 0,
@@ -1510,9 +1510,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 28,
-            "building": 139,
-            "dependencies": 142
+            "factory": 9,
+            "building": 176,
+            "dependencies": 118
           },
           "failed": false,
           "errors": 0,
@@ -1561,8 +1561,8 @@
           "issuerId": 3,
           "issuerName": "./~/react/lib/ReactElement.js",
           "profile": {
-            "factory": 127,
-            "building": 28
+            "factory": 107,
+            "building": 89
           },
           "failed": false,
           "errors": 0,
@@ -1611,9 +1611,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 33,
-            "building": 195,
-            "dependencies": 176
+            "factory": 13,
+            "building": 213,
+            "dependencies": 5
           },
           "failed": false,
           "errors": 0,
@@ -1663,8 +1663,8 @@
           "issuerName": "./~/react/lib/ReactBaseClasses.js",
           "profile": {
             "factory": 157,
-            "building": 22,
-            "dependencies": 58
+            "building": 40,
+            "dependencies": 68
           },
           "failed": false,
           "errors": 0,
@@ -1713,8 +1713,8 @@
           "issuerId": 16,
           "issuerName": "./~/react/lib/ReactElementValidator.js",
           "profile": {
-            "factory": 102,
-            "building": 66
+            "factory": 122,
+            "building": 91
           },
           "failed": false,
           "errors": 0,
@@ -1763,9 +1763,9 @@
           "issuerId": 37,
           "issuerName": "./~/react/lib/createClass.js",
           "profile": {
-            "factory": 174,
-            "building": 50,
-            "dependencies": 17
+            "factory": 227,
+            "building": 101,
+            "dependencies": 13
           },
           "failed": false,
           "errors": 0,
@@ -1805,9 +1805,9 @@
           "issuerId": 26,
           "issuerName": "./~/prop-types/factoryWithTypeCheckers.js",
           "profile": {
-            "factory": 4,
-            "building": 4,
-            "dependencies": 2
+            "factory": 14,
+            "building": 9,
+            "dependencies": 4
           },
           "failed": false,
           "errors": 0,
@@ -1847,8 +1847,8 @@
           "issuerId": 33,
           "issuerName": "./~/react/lib/ReactPropTypes.js",
           "profile": {
-            "factory": 185,
-            "building": 35
+            "factory": 236,
+            "building": 52
           },
           "failed": false,
           "errors": 0,
@@ -1888,9 +1888,9 @@
           "issuerId": 25,
           "issuerName": "./~/prop-types/factory.js",
           "profile": {
-            "factory": 19,
-            "building": 11,
-            "dependencies": 3
+            "factory": 96,
+            "building": 35,
+            "dependencies": 9
           },
           "failed": false,
           "errors": 0,
@@ -1930,8 +1930,8 @@
           "issuerId": 39,
           "issuerName": "./~/react/lib/traverseAllChildren.js",
           "profile": {
-            "factory": 28,
-            "building": 37
+            "factory": 54,
+            "building": 126
           },
           "failed": false,
           "errors": 0,
@@ -1971,9 +1971,9 @@
           "issuerId": 30,
           "issuerName": "./~/react/lib/ReactChildren.js",
           "profile": {
-            "factory": 150,
-            "building": 28,
-            "dependencies": 48
+            "factory": 134,
+            "building": 49,
+            "dependencies": 53
           },
           "failed": false,
           "errors": 0,
@@ -2013,8 +2013,8 @@
           "issuerId": 8,
           "issuerName": "./~/react/react.js",
           "profile": {
-            "factory": 328,
-            "building": 43
+            "factory": 169,
+            "building": 395
           },
           "failed": false,
           "errors": 0,
@@ -2054,8 +2054,8 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 29,
-            "building": 146,
+            "factory": 10,
+            "building": 199,
             "dependencies": 1
           },
           "failed": false,
@@ -2096,9 +2096,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 29,
-            "building": 162,
-            "dependencies": 41
+            "factory": 10,
+            "building": 185,
+            "dependencies": 35
           },
           "failed": false,
           "errors": 0,
@@ -2138,9 +2138,9 @@
           "issuerId": 36,
           "issuerName": "./~/react/lib/checkReactTypeSpec.js",
           "profile": {
-            "factory": 20,
-            "building": 39,
-            "dependencies": 0
+            "factory": 38,
+            "building": 130,
+            "dependencies": 1
           },
           "failed": false,
           "errors": 0,
@@ -2180,9 +2180,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 30,
-            "building": 182,
-            "dependencies": 0
+            "factory": 11,
+            "building": 193,
+            "dependencies": 1
           },
           "failed": false,
           "errors": 0,
@@ -2222,8 +2222,8 @@
           "issuerId": 36,
           "issuerName": "./~/react/lib/checkReactTypeSpec.js",
           "profile": {
-            "factory": 21,
-            "building": 40
+            "factory": 39,
+            "building": 117
           },
           "failed": false,
           "errors": 0,
@@ -2263,8 +2263,8 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 31,
-            "building": 180
+            "factory": 11,
+            "building": 201
           },
           "failed": false,
           "errors": 0,
@@ -2304,9 +2304,9 @@
           "issuerId": 16,
           "issuerName": "./~/react/lib/ReactElementValidator.js",
           "profile": {
-            "factory": 101,
-            "building": 62,
-            "dependencies": 13
+            "factory": 121,
+            "building": 70,
+            "dependencies": 33
           },
           "failed": false,
           "errors": 0,
@@ -2346,9 +2346,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 31,
-            "building": 173,
-            "dependencies": 121
+            "factory": 12,
+            "building": 202,
+            "dependencies": 128
           },
           "failed": false,
           "errors": 0,
@@ -2388,9 +2388,9 @@
           "issuerId": 29,
           "issuerName": "./~/react/lib/React.js",
           "profile": {
-            "factory": 32,
-            "building": 176,
-            "dependencies": 193
+            "factory": 13,
+            "building": 234,
+            "dependencies": 197
           },
           "failed": false,
           "errors": 0,
@@ -2430,9 +2430,9 @@
           "issuerId": 30,
           "issuerName": "./~/react/lib/ReactChildren.js",
           "profile": {
-            "factory": 151,
-            "building": 57,
-            "dependencies": 21
+            "factory": 135,
+            "building": 56,
+            "dependencies": 50
           },
           "failed": false,
           "errors": 0,
@@ -2472,8 +2472,8 @@
           "issuerId": null,
           "issuerName": null,
           "profile": {
-            "factory": 0,
-            "building": 1
+            "factory": 1,
+            "building": 0
           },
           "failed": false,
           "errors": 0,
@@ -2518,8 +2518,8 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 232,
-        "building": 106
+        "factory": 231,
+        "building": 142
       },
       "failed": false,
       "errors": 0,
@@ -2730,8 +2730,8 @@
       "issuerId": 14,
       "issuerName": "./~/react/lib/ReactBaseClasses.js",
       "profile": {
-        "factory": 233,
-        "building": 38,
+        "factory": 259,
+        "building": 118,
         "dependencies": 0
       },
       "failed": false,
@@ -2840,13 +2840,13 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElement.js",
-      "issuerId": 3,
-      "issuerName": "./~/react/lib/ReactElement.js",
+      "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElementValidator.js",
+      "issuerId": 16,
+      "issuerName": "./~/react/lib/ReactElementValidator.js",
       "profile": {
-        "factory": 203,
-        "building": 38,
-        "dependencies": 2
+        "factory": 224,
+        "building": 117,
+        "dependencies": 4
       },
       "failed": false,
       "errors": 0,
@@ -2958,9 +2958,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 30,
-        "building": 171,
-        "dependencies": 108
+        "factory": 12,
+        "building": 230,
+        "dependencies": 208
       },
       "failed": false,
       "errors": 0,
@@ -3054,8 +3054,8 @@
       "issuerId": 14,
       "issuerName": "./~/react/lib/ReactBaseClasses.js",
       "profile": {
-        "factory": 156,
-        "building": 32
+        "factory": 155,
+        "building": 45
       },
       "failed": false,
       "errors": 0,
@@ -3140,8 +3140,8 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 308,
-        "building": 33
+        "factory": 303,
+        "building": 74
       },
       "failed": false,
       "errors": 0,
@@ -3204,12 +3204,12 @@
         1
       ],
       "assets": [],
-      "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElement.js",
-      "issuerId": 3,
-      "issuerName": "./~/react/lib/ReactElement.js",
+      "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/eslint-loader/index.js??ref--0!/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/react/lib/ReactElementValidator.js",
+      "issuerId": 16,
+      "issuerName": "./~/react/lib/ReactElementValidator.js",
       "profile": {
-        "factory": 125,
-        "building": 52
+        "factory": 119,
+        "building": 50
       },
       "failed": false,
       "errors": 0,
@@ -3276,9 +3276,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 32,
-        "building": 182,
-        "dependencies": 18
+        "factory": 15,
+        "building": 235,
+        "dependencies": 0
       },
       "failed": false,
       "errors": 0,
@@ -3345,8 +3345,8 @@
       "issuerId": 40,
       "issuerName": "multi react",
       "profile": {
-        "factory": 227,
-        "building": 182
+        "factory": 265,
+        "building": 31
       },
       "failed": false,
       "errors": 0,
@@ -3395,8 +3395,8 @@
       "issuerId": 30,
       "issuerName": "./~/react/lib/ReactChildren.js",
       "profile": {
-        "factory": 226,
-        "building": 35
+        "factory": 237,
+        "building": 112
       },
       "failed": false,
       "errors": 0,
@@ -3454,9 +3454,9 @@
       "issuerId": 16,
       "issuerName": "./~/react/lib/ReactElementValidator.js",
       "profile": {
-        "factory": 100,
-        "building": 47,
-        "dependencies": 29
+        "factory": 120,
+        "building": 87,
+        "dependencies": 17
       },
       "failed": false,
       "errors": 0,
@@ -3514,9 +3514,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 32,
-        "building": 187,
-        "dependencies": 13
+        "factory": 14,
+        "building": 239,
+        "dependencies": 1
       },
       "failed": false,
       "errors": 0,
@@ -3574,9 +3574,9 @@
       "issuerId": 14,
       "issuerName": "./~/react/lib/ReactBaseClasses.js",
       "profile": {
-        "factory": 231,
-        "building": 36,
-        "dependencies": 0
+        "factory": 256,
+        "building": 37,
+        "dependencies": 9
       },
       "failed": false,
       "errors": 0,
@@ -3625,8 +3625,8 @@
       "issuerId": 26,
       "issuerName": "./~/prop-types/factoryWithTypeCheckers.js",
       "profile": {
-        "factory": 5,
-        "building": 1
+        "factory": 14,
+        "building": 14
       },
       "failed": false,
       "errors": 0,
@@ -3675,9 +3675,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 28,
-        "building": 139,
-        "dependencies": 142
+        "factory": 9,
+        "building": 176,
+        "dependencies": 118
       },
       "failed": false,
       "errors": 0,
@@ -3726,8 +3726,8 @@
       "issuerId": 3,
       "issuerName": "./~/react/lib/ReactElement.js",
       "profile": {
-        "factory": 127,
-        "building": 28
+        "factory": 107,
+        "building": 89
       },
       "failed": false,
       "errors": 0,
@@ -3776,9 +3776,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 33,
-        "building": 195,
-        "dependencies": 176
+        "factory": 13,
+        "building": 213,
+        "dependencies": 5
       },
       "failed": false,
       "errors": 0,
@@ -3828,8 +3828,8 @@
       "issuerName": "./~/react/lib/ReactBaseClasses.js",
       "profile": {
         "factory": 157,
-        "building": 22,
-        "dependencies": 58
+        "building": 40,
+        "dependencies": 68
       },
       "failed": false,
       "errors": 0,
@@ -3878,8 +3878,8 @@
       "issuerId": 16,
       "issuerName": "./~/react/lib/ReactElementValidator.js",
       "profile": {
-        "factory": 102,
-        "building": 66
+        "factory": 122,
+        "building": 91
       },
       "failed": false,
       "errors": 0,
@@ -3928,8 +3928,8 @@
       "issuerId": 22,
       "issuerName": "./app/index.js",
       "profile": {
-        "factory": 9,
-        "building": 355
+        "factory": 4,
+        "building": 382
       },
       "failed": false,
       "errors": 0,
@@ -3973,7 +3973,7 @@
       "issuerId": 22,
       "issuerName": "./app/index.js",
       "profile": {
-        "factory": 385,
+        "factory": 419,
         "building": 16
       },
       "failed": false,
@@ -4016,9 +4016,9 @@
       "issuerId": 22,
       "issuerName": "./app/index.js",
       "profile": {
-        "factory": 401,
-        "building": 2,
-        "dependencies": 129
+        "factory": 436,
+        "building": 1,
+        "dependencies": 137
       },
       "failed": false,
       "errors": 0,
@@ -4060,9 +4060,9 @@
       "issuerId": null,
       "issuerName": null,
       "profile": {
-        "factory": 55,
-        "building": 350,
-        "dependencies": 8
+        "factory": 57,
+        "building": 403,
+        "dependencies": 3
       },
       "failed": false,
       "errors": 0,
@@ -4092,9 +4092,9 @@
       "issuerId": 37,
       "issuerName": "./~/react/lib/createClass.js",
       "profile": {
-        "factory": 174,
-        "building": 50,
-        "dependencies": 17
+        "factory": 227,
+        "building": 101,
+        "dependencies": 13
       },
       "failed": false,
       "errors": 0,
@@ -4134,9 +4134,9 @@
       "issuerId": 26,
       "issuerName": "./~/prop-types/factoryWithTypeCheckers.js",
       "profile": {
-        "factory": 4,
-        "building": 4,
-        "dependencies": 2
+        "factory": 14,
+        "building": 9,
+        "dependencies": 4
       },
       "failed": false,
       "errors": 0,
@@ -4176,8 +4176,8 @@
       "issuerId": 33,
       "issuerName": "./~/react/lib/ReactPropTypes.js",
       "profile": {
-        "factory": 185,
-        "building": 35
+        "factory": 236,
+        "building": 52
       },
       "failed": false,
       "errors": 0,
@@ -4217,9 +4217,9 @@
       "issuerId": 25,
       "issuerName": "./~/prop-types/factory.js",
       "profile": {
-        "factory": 19,
-        "building": 11,
-        "dependencies": 3
+        "factory": 96,
+        "building": 35,
+        "dependencies": 9
       },
       "failed": false,
       "errors": 0,
@@ -4259,8 +4259,8 @@
       "issuerId": 39,
       "issuerName": "./~/react/lib/traverseAllChildren.js",
       "profile": {
-        "factory": 28,
-        "building": 37
+        "factory": 54,
+        "building": 126
       },
       "failed": false,
       "errors": 0,
@@ -4300,9 +4300,9 @@
       "issuerId": 30,
       "issuerName": "./~/react/lib/ReactChildren.js",
       "profile": {
-        "factory": 150,
-        "building": 28,
-        "dependencies": 48
+        "factory": 134,
+        "building": 49,
+        "dependencies": 53
       },
       "failed": false,
       "errors": 0,
@@ -4342,8 +4342,8 @@
       "issuerId": 8,
       "issuerName": "./~/react/react.js",
       "profile": {
-        "factory": 328,
-        "building": 43
+        "factory": 169,
+        "building": 395
       },
       "failed": false,
       "errors": 0,
@@ -4383,8 +4383,8 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 29,
-        "building": 146,
+        "factory": 10,
+        "building": 199,
         "dependencies": 1
       },
       "failed": false,
@@ -4425,9 +4425,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 29,
-        "building": 162,
-        "dependencies": 41
+        "factory": 10,
+        "building": 185,
+        "dependencies": 35
       },
       "failed": false,
       "errors": 0,
@@ -4467,9 +4467,9 @@
       "issuerId": 36,
       "issuerName": "./~/react/lib/checkReactTypeSpec.js",
       "profile": {
-        "factory": 20,
-        "building": 39,
-        "dependencies": 0
+        "factory": 38,
+        "building": 130,
+        "dependencies": 1
       },
       "failed": false,
       "errors": 0,
@@ -4509,9 +4509,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 30,
-        "building": 182,
-        "dependencies": 0
+        "factory": 11,
+        "building": 193,
+        "dependencies": 1
       },
       "failed": false,
       "errors": 0,
@@ -4551,8 +4551,8 @@
       "issuerId": 36,
       "issuerName": "./~/react/lib/checkReactTypeSpec.js",
       "profile": {
-        "factory": 21,
-        "building": 40
+        "factory": 39,
+        "building": 117
       },
       "failed": false,
       "errors": 0,
@@ -4592,8 +4592,8 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 31,
-        "building": 180
+        "factory": 11,
+        "building": 201
       },
       "failed": false,
       "errors": 0,
@@ -4633,9 +4633,9 @@
       "issuerId": 16,
       "issuerName": "./~/react/lib/ReactElementValidator.js",
       "profile": {
-        "factory": 101,
-        "building": 62,
-        "dependencies": 13
+        "factory": 121,
+        "building": 70,
+        "dependencies": 33
       },
       "failed": false,
       "errors": 0,
@@ -4675,9 +4675,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 31,
-        "building": 173,
-        "dependencies": 121
+        "factory": 12,
+        "building": 202,
+        "dependencies": 128
       },
       "failed": false,
       "errors": 0,
@@ -4717,9 +4717,9 @@
       "issuerId": 29,
       "issuerName": "./~/react/lib/React.js",
       "profile": {
-        "factory": 32,
-        "building": 176,
-        "dependencies": 193
+        "factory": 13,
+        "building": 234,
+        "dependencies": 197
       },
       "failed": false,
       "errors": 0,
@@ -4759,9 +4759,9 @@
       "issuerId": 30,
       "issuerName": "./~/react/lib/ReactChildren.js",
       "profile": {
-        "factory": 151,
-        "building": 57,
-        "dependencies": 21
+        "factory": 135,
+        "building": 56,
+        "dependencies": 50
       },
       "failed": false,
       "errors": 0,
@@ -4801,8 +4801,8 @@
       "issuerId": null,
       "issuerName": null,
       "profile": {
-        "factory": 0,
-        "building": 1
+        "factory": 1,
+        "building": 0
       },
       "failed": false,
       "errors": 0,
@@ -4829,9 +4829,8 @@
       "issuerId": 20,
       "issuerName": "./app/style1.css",
       "profile": {
-        "factory": 10,
-        "building": 234,
-        "dependencies": 64
+        "factory": 11,
+        "building": 291
       },
       "failed": false,
       "errors": 0,
@@ -4859,8 +4858,9 @@
       "issuerId": 21,
       "issuerName": "./app/style2.css",
       "profile": {
-        "factory": 125,
-        "building": 106
+        "factory": 133,
+        "building": 171,
+        "dependencies": 35
       },
       "failed": false,
       "errors": 0,
@@ -4884,12 +4884,12 @@
       "prefetched": false,
       "chunks": [],
       "assets": [],
-      "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/css-loader/index.js?{\"modules\":true}!/Users/Parry/Desktop/webpack2-tourist/source_code/018/app/style2.css",
-      "issuerId": 42,
-      "issuerName": "./~/css-loader?{\"modules\":true}!./app/style2.css",
+      "issuer": "/Users/Parry/Desktop/webpack2-tourist/source_code/018/node_modules/css-loader/index.js?{\"modules\":true}!/Users/Parry/Desktop/webpack2-tourist/source_code/018/app/style1.css",
+      "issuerId": 41,
+      "issuerName": "./~/css-loader?{\"modules\":true}!./app/style1.css",
       "profile": {
-        "factory": 75,
-        "building": 76
+        "factory": 40,
+        "building": 94
       },
       "failed": false,
       "errors": 0,
@@ -4936,8 +4936,8 @@
       "issuerId": 20,
       "issuerName": "./app/style1.css",
       "profile": {
-        "factory": 131,
-        "building": 167
+        "factory": 139,
+        "building": 193
       },
       "failed": false,
       "errors": 0,
@@ -4966,7 +4966,7 @@
       "issuerName": "./~/style-loader/addStyles.js",
       "profile": {
         "factory": 11,
-        "building": 77
+        "building": 85
       },
       "failed": false,
       "errors": 0,
@@ -5049,8 +5049,8 @@
               "issuerId": 3,
               "issuerName": "./~/html-webpack-plugin/lib/loader.js!./~/html-webpack-plugin/default_index.ejs",
               "profile": {
-                "factory": 181,
-                "building": 506
+                "factory": 216,
+                "building": 541
               },
               "failed": false,
               "errors": 0,
@@ -5090,8 +5090,8 @@
               "issuerId": 0,
               "issuerName": "./~/lodash/lodash.js",
               "profile": {
-                "factory": 198,
-                "building": 118
+                "factory": 88,
+                "building": 229
               },
               "failed": false,
               "errors": 0,
@@ -5131,8 +5131,8 @@
               "issuerId": 0,
               "issuerName": "./~/lodash/lodash.js",
               "profile": {
-                "factory": 199,
-                "building": 118
+                "factory": 89,
+                "building": 225
               },
               "failed": false,
               "errors": 0,
@@ -5173,7 +5173,7 @@
               "issuerName": null,
               "profile": {
                 "factory": 28,
-                "building": 28
+                "building": 32
               },
               "failed": false,
               "errors": 0,
@@ -5218,8 +5218,8 @@
           "issuerId": 3,
           "issuerName": "./~/html-webpack-plugin/lib/loader.js!./~/html-webpack-plugin/default_index.ejs",
           "profile": {
-            "factory": 181,
-            "building": 506
+            "factory": 216,
+            "building": 541
           },
           "failed": false,
           "errors": 0,
@@ -5259,8 +5259,8 @@
           "issuerId": 0,
           "issuerName": "./~/lodash/lodash.js",
           "profile": {
-            "factory": 198,
-            "building": 118
+            "factory": 88,
+            "building": 229
           },
           "failed": false,
           "errors": 0,
@@ -5300,8 +5300,8 @@
           "issuerId": 0,
           "issuerName": "./~/lodash/lodash.js",
           "profile": {
-            "factory": 199,
-            "building": 118
+            "factory": 89,
+            "building": 225
           },
           "failed": false,
           "errors": 0,
@@ -5342,7 +5342,7 @@
           "issuerName": null,
           "profile": {
             "factory": 28,
-            "building": 28
+            "building": 32
           },
           "failed": false,
           "errors": 0,
@@ -5408,8 +5408,8 @@
               "issuerId": 1,
               "issuerName": "./~/css-loader?{\"modules\":true}!./app/style1.css",
               "profile": {
-                "factory": 11,
-                "building": 4
+                "factory": 1,
+                "building": 10
               },
               "failed": false,
               "errors": 0,
@@ -5449,8 +5449,8 @@
               "issuerId": null,
               "issuerName": null,
               "profile": {
-                "factory": 5,
-                "building": 8
+                "factory": 7,
+                "building": 7
               },
               "failed": false,
               "errors": 0,
@@ -5495,8 +5495,8 @@
           "issuerId": 1,
           "issuerName": "./~/css-loader?{\"modules\":true}!./app/style1.css",
           "profile": {
-            "factory": 11,
-            "building": 4
+            "factory": 1,
+            "building": 10
           },
           "failed": false,
           "errors": 0,
@@ -5536,8 +5536,8 @@
           "issuerId": null,
           "issuerName": null,
           "profile": {
-            "factory": 5,
-            "building": 8
+            "factory": 7,
+            "building": 7
           },
           "failed": false,
           "errors": 0,
@@ -5603,8 +5603,8 @@
               "issuerId": 1,
               "issuerName": "./~/css-loader?{\"modules\":true}!./app/style2.css",
               "profile": {
-                "factory": 0,
-                "building": 10
+                "factory": 1,
+                "building": 35
               },
               "failed": false,
               "errors": 0,
@@ -5644,8 +5644,8 @@
               "issuerId": null,
               "issuerName": null,
               "profile": {
-                "factory": 4,
-                "building": 19
+                "factory": 8,
+                "building": 6
               },
               "failed": false,
               "errors": 0,
@@ -5690,8 +5690,8 @@
           "issuerId": 1,
           "issuerName": "./~/css-loader?{\"modules\":true}!./app/style2.css",
           "profile": {
-            "factory": 0,
-            "building": 10
+            "factory": 1,
+            "building": 35
           },
           "failed": false,
           "errors": 0,
@@ -5731,8 +5731,8 @@
           "issuerId": null,
           "issuerName": null,
           "profile": {
-            "factory": 4,
-            "building": 19
+            "factory": 8,
+            "building": 6
           },
           "failed": false,
           "errors": 0,
