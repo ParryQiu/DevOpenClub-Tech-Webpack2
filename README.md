@@ -26,11 +26,16 @@ Webpack 作为目前前端开发必备的框架，Webpack 发布了 2.0 版本�
 * [013 - 自动分离 CSS 到独立文件](http://v.youku.com/v_show/id_XMjc2ODU1MjY0NA==.html)
 * [014 - 深入理解 Webpack 2 中的 loader](http://v.youku.com/v_show/id_XMjc4NzY1NDIzMg==.html)
 * [015 - Webpack 2 中的文件压缩](http://v.youku.com/v_show/id_XMjgwNTg3NzQ2NA==.html)
-* [016 - Webpack 2 中生成 SourceMaps]
-* [017 - Webpack 2 中分离打包项目代码与组件代码]
-* [018 - 使用可视化图表进行统计分析打包过程]
-* [019 - Webpack 2 中配置多页面编译]
-* 020 视频即将更新，请关注我们的小密圈第一时间获取视频查看密码
+* [016 - Webpack 2 中生成 SourceMaps](https://www.bilibili.com/video/av11128844/)
+* [017 - Webpack 2 中分离打包项目代码与组件代码](https://www.bilibili.com/video/av11128844/)
+* [018 - 使用可视化图表进行统计分析打包过程](https://www.bilibili.com/video/av11128844/)
+* [019 - Webpack 2 中配置多页面编译](https://www.bilibili.com/video/av11128844/)
+* [020 - Webpack 2 中的 HMR ( Hot Module Replacement )](https://www.bilibili.com/video/av11128844/)
+
+课程暂时完结，撒花~~~
+稍后会根据小密圈问题以及官方发布 Webpack 3 后进行适当地更新。
+关于课程的任何问题，都可以在我们的高质量前端开发小密圈中提问或交流。
+课程更新及高质量讨论小密圈地址：[https://devopen.club/course/webpack2.html](https://devopen.club/course/webpack2.html)
 
 # 2. 视频课程地址
 
