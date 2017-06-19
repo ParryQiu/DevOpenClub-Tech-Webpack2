@@ -24,7 +24,7 @@ module.exports = {
       errors: true,
       warnings: true,
     },
-    hotOnly: true,
+    hotOnly: true, //HMR
   },
   devtool: 'source-map',
   performance: {
@@ -75,6 +75,6 @@ module.exports = {
     new webpack.optimize.CommonsChunkPlugin({
       name: 'vendor',
     }),
-    new webpack.HotModuleReplacementPlugin(),
+    new webpack.HotModuleReplacementPlugin(), //HMR --hot
   ],
 };

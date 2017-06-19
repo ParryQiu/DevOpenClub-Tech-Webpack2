@@ -9,7 +9,7 @@
     "build": "webpack --env production",
     "lintjs": "eslint app/ webpack.*.js --cache",
     "stats": "webpack --env production --profile --json > stats.json",
-    "hmr": "webpack-dev-server --hot"
+    "hmr": "webpack-dev-server"
   },
   "keywords": [],
   "author": "",

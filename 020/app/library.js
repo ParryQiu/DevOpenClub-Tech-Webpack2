@@ -1,5 +1,5 @@
 export default {
   log() {
-    console.log('1233333');
+    console.log('456789');
   },
 };
