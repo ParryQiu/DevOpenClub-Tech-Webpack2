@@ -17,6 +17,6 @@
     "eslint-loader": "^1.7.1",
     "html-webpack-plugin": "^2.28.0",
     "webpack": "^2.3.2",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": "^5.2.2"
   }
 }
